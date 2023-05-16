@@ -1,0 +1,17 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background: rgb(22, 22, 22);
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+}
+
+#arkanoid {
+  display: block;
+  margin: 0 auto;
+  border: 3px solid blue;
+  background-image: url(./IMG/BG.png);
+}
